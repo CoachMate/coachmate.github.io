@@ -1,0 +1,26 @@
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(-45deg, #815ba7, #5ab4e5);
+  overflow: hidden;
+}
+
+h1 {
+  color: #fff;
+  word-wrap: break-word;
+}
+
+a {
+  color: #b6e5ff;
+  text-decoration: none;
+}
